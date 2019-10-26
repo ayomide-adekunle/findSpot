@@ -2,3 +2,38 @@
   max-height: 35vh;
   overflow: hidden;
 }
+.miles{
+  font-size: 12px;
+  padding-left: 20px;
+
+}
+.free{
+  font-size: 12px; 
+  margin-left: 20px; 
+  background-color: aquamarine;
+  padding: 1px 12px 1px 8px;
+
+}
+.filled{
+  font-size: 12px; 
+  margin-left: 20px; 
+  background-color:crimson;
+  padding: 1px 12px 1px 8px;
+
+}
+.direction{
+  font-size: 12px; 
+  padding-left: 20px;
+
+}
+
+.toolbar-background {
+  top: 0px;
+  transform: translateZ(0px);
+  contain: strict;
+  opacity: var(--opacity);
+  z-index: -1;
+  pointer-events: none;
+  color: darkblue !important;
+}
+
